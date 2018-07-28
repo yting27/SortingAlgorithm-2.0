@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532531281 source:c:\users\ngyen\documents\programming\sortingalgo\main.cpp
+	<iostream>
+	<SortingAlgo.h>
+	<ctime>
+	<cstdlib>
+
+1532531368 c:\users\ngyen\documents\programming\sortingalgo\include\sortingalgo.h
+	<vector>
+
